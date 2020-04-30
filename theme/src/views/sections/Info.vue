@@ -21,7 +21,7 @@
               cols="12"
               md="3"
             >
-              <base-info-card title="Contact" />
+              <base-info-card title="Contato" />
 
               <base-business-contact dense />
             </v-col>
