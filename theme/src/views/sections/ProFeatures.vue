@@ -8,8 +8,8 @@
       max-width="128"
     />
 
-    <base-section-heading title="Feature Comparison">
-      Get the PRO version of <strong>Daedal</strong> and level up your theme<br>with additional components, pages, and Free updates.
+    <base-section-heading title="Comparação de Funcionalidades">
+      Obtenha nossa <strong>Consultoria</strong> e suba de nível em seus resultados<br>com cardápios variados, controle alimentar e coach.
     </base-section-heading>
 
     <v-container>
@@ -26,10 +26,10 @@
               <tr>
                 <th />
                 <th class="body-1 font-weight-bold text-center">
-                  What's in the Demo?
+                  Acompanhamento Nutricional?
                 </th>
                 <th class="body-1 font-weight-bold text-center">
-                  What's in the PRO version?
+                  Consultoria Nutricional?
                 </th>
               </tr>
             </thead>
@@ -90,7 +90,7 @@
               href="https://store.vuetifyjs.com/product/daedal-responsive-multi-purpose-theme-pro?ref=vtyd-pro-page-features"
               rounded
             >
-              Buy Pro Now
+              Adquira sua consultoria
 
               <v-icon right>
                 mdi-rocket
@@ -109,13 +109,13 @@
 
     data: () => ({
       features: [
-        ['Components', 23, '40+'],
-        ['Example Pages', 3, 10],
-        ['Bugfixes and Issues', true, true],
-        ['Vue CLI Support', true, true],
-        ['News, Project, and Pricing Pages', false, true],
-        ['6 Months Free Updates', false, true],
-        ['Price', 'Free', '$60'],
+        ['Acompanhamento (Dias)', 4, 12],
+        ['Resultados Semanais', 1, 4],
+        ['Bioimpedancia', true, true],
+        ['Suporte via Email', true, true],
+        ['Acompanhamento via Whatsapp', false, true],
+        ['3 meses de atualização com desconto', false, true],
+        ['Preço', 'R$80', 'R$350'],
       ],
     }),
   }
