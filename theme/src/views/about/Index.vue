@@ -8,7 +8,7 @@
   export default {
     name: 'About',
 
-    metaInfo: { title: 'About Us' },
+    metaInfo: { title: 'Sobre Nós' },
 
     extends: View,
 
