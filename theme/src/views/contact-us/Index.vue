@@ -8,7 +8,7 @@
   export default {
     name: 'ContactUs',
 
-    metaInfo: { title: 'Contact Us' },
+    metaInfo: { title: 'Contate-nos' },
 
     extends: View,
 
