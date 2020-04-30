@@ -9,7 +9,7 @@
 
     <base-subheading
       space="8"
-      title="Looks like this page doesn't exist"
+      title="Parece que esta página não existe"
     />
 
     <base-img
@@ -22,7 +22,7 @@
 
     <div class="text-center">
       <base-btn :to="{ name: 'Home' }">
-        Get me Out of Here
+        Me tire daqui
       </base-btn>
     </div>
   </base-section>

@@ -9,7 +9,7 @@
     name: 'App',
     metaInfo: {
       title: 'App',
-      titleTemplate: '%s | Daedal Multi-Purpose Theme',
+      titleTemplate: '%s | CB - Nutrição Flexível',
       htmlAttrs: { lang: 'en' },
       meta: [
         { charset: 'utf-8' },
