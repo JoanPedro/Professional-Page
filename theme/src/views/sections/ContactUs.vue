@@ -10,7 +10,7 @@
           <v-col cols="10">
             <base-title
               :space="$vuetify.breakpoint.mdAndUp ? 0 : 4"
-              title="HAVE QUESTIONS? LET US KNOW!"
+              title="POSSUI ALGUMA DÚVIDA? DEIXE-NOS SABER!"
             />
 
             <base-body space="0">
@@ -32,7 +32,7 @@
               outlined
               target="_blank"
             >
-              Contact Us
+              Contato
             </base-btn>
           </v-col>
         </v-row>
