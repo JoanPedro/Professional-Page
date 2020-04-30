@@ -1,6 +1,6 @@
 <template>
   <base-section id="theme-features">
-    <base-section-heading title="Theme Features">
+    <base-section-heading title="Recursos">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, in! Asperiores, impedit libero. Veniam rerum saepe unde nihil possimus quibusdam esse accusamus mollitia magni fuga.
     </base-section-heading>
 
@@ -32,29 +32,29 @@
     data: () => ({
       features: [
         {
-          title: 'Pixel Perfect Design',
+          title: 'Plano Alimentar',
           icon: 'mdi-fountain-pen-tip',
         },
         {
-          title: 'Retina Ready',
+          title: 'Acompanhamento Semanal',
           icon: 'mdi-cellphone',
+        },
+        {
+          title: 'Cardápio Adaptável',
+          icon: 'mdi-pencil-box-outline',
+        },
+        {
+          title: 'Portfólio',
+          icon: 'mdi-image-size-select-actual',
         },
         {
           color: 'primary',
           dark: true,
-          title: 'Easily Customizable',
-          icon: 'mdi-pencil-box-outline',
-        },
-        {
-          title: 'Image Parallax',
-          icon: 'mdi-image-size-select-actual',
-        },
-        {
-          title: 'Seo Optimized',
+          title: 'Dieta Flexível',
           icon: 'mdi-ice-pop',
         },
         {
-          title: '24/7 Support',
+          title: 'Suporte 24/7',
           icon: 'mdi-help-circle-outline',
         },
       ],

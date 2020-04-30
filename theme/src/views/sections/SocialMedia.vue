@@ -6,7 +6,7 @@
       space="56"
     >
       <base-icon class="mb-8">
-        mdi-twitter
+        mdi-linkedin
       </base-icon>
 
       <base-section-heading
@@ -18,11 +18,11 @@
 
       <a
         class="d-inline-block mb-8"
-        href="https://vuetifyjs.com"
+        href="https://www.linkedin.com/in/carla-beatriz-souza-93aa8112a/"
         style="text-decoration: none;"
         target="_blank"
       >
-        https://vuetifyjs.com
+        Linkedin
       </a>
 
       <div class="py-4" />
@@ -30,13 +30,13 @@
       <v-btn
         class="font-weight-bold"
         color="white"
-        href="https://twitter.com/vuetifyjs"
+        href="https://www.instagram.com/nutricionistacarlabeatriz/"
         light
         min-width="168"
         target="_blank"
         x-large
       >
-        Follow Us
+        SEGUIR
 
         <v-icon right>
           mdi-open-in-new
