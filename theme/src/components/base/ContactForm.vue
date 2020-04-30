@@ -7,15 +7,15 @@
       color="primary"
     />
 
-    <base-text-field label="Name" />
+    <base-text-field label="Nome" />
 
     <base-text-field label="Email" />
 
-    <base-text-field label="Subject" />
+    <base-text-field label="Título" />
 
     <base-textarea
       class="mb-6"
-      label="Your Need & Description"
+      label="O que precisa & Descrição"
     />
 
     <base-btn
@@ -24,7 +24,7 @@
       outlined
       target="_blank"
     >
-      Send message
+      Enviar Mensagem
     </base-btn>
   </div>
 </template>
@@ -40,7 +40,7 @@
       subtitle: String,
       title: {
         type: String,
-        default: 'MAIL US YOUR MESSAGE',
+        default: 'Envie sua mensagem',
       },
     },
   }

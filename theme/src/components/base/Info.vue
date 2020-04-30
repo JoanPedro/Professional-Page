@@ -44,12 +44,12 @@
       business: [
         {
           icon: 'mdi-map-marker-outline',
-          title: 'Address',
+          title: 'Endereço',
           text: '8553 N. Beach St. Ste. 227<br>Fort Worth, Texas 76137',
         },
         {
           icon: 'mdi-cellphone',
-          title: 'Phone',
+          title: 'Nome',
           text: '01 (800) 433 744<br>01 (800) 433 633',
         },
         {
