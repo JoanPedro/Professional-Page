@@ -36,23 +36,23 @@
       cards: [
         {
           icon: 'mdi-keyboard-outline',
-          title: 'Trendy Design',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Design Moderno',
+          text: 'Liberte com eficiência as informações da mídia sem valor entre mídias. Maximize rapidamente os esquemas de entregas pontuais de valor.',
         },
         {
           icon: 'mdi-camera-outline',
-          title: 'Photography',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Fotografia',
+          text: 'Liberte com eficiência as informações da mídia sem valor entre mídias. Maximize rapidamente os esquemas de entregas pontuais de valor.',
         },
         {
           icon: 'mdi-pencil-outline',
-          title: 'Brand Making',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Criação de Marca',
+          text: 'Liberte com eficiência as informações da mídia sem valor entre mídias. Maximize rapidamente os esquemas de entregas pontuais de valor.',
         },
         {
           icon: 'mdi-puzzle-outline',
-          title: '24/7 Support',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Suporte 24/7',
+          text: 'Liberte com eficiência as informações da mídia sem valor entre mídias. Maximize rapidamente os esquemas de entregas pontuais de valor.',
         },
       ],
     }),
