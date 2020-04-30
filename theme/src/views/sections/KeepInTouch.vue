@@ -9,7 +9,7 @@
           cols="12"
           md="5"
         >
-          <base-business-info title="KEEP IN TOUCH WITH US">
+          <base-business-info title="MANTENHA-SE EM CONTATO CONOSCO">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo pariatur quidem, quis modi iure nihil commodi suscipit, corporis dicta adipisci, voluptatum quia cupiditate.
           </base-business-info>
         </v-col>
@@ -18,7 +18,7 @@
           cols="12"
           md="6"
         >
-          <base-contact-form title="MAIL US YOUR MESSAGE" />
+          <base-contact-form title="ENVIE-NOS SUA MENSAGEM" />
         </v-col>
       </v-row>
     </v-container>
