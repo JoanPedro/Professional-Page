@@ -76,7 +76,7 @@
       },
       items () {
         return [
-          { text: 'HOME', to: '/' },
+          { text: 'INICIO', to: '/' },
           { text: this.title },
         ]
       },

@@ -69,9 +69,9 @@
     data: () => ({
       drawer: null,
       items: [
-        'Home',
-        'About',
-        'Contact',
+        'Inicio',
+        'Sobre',
+        'Contato',
       ],
     }),
   }

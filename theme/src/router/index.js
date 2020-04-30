@@ -20,18 +20,18 @@ const router = new Router({
       children: [
         {
           path: '',
-          name: 'Home',
+          name: 'Inicio',
           component: () => import('@/views/home/Index.vue'),
         },
         {
           path: 'about',
-          name: 'About',
+          name: 'Sobre',
           component: () => import('@/views/about/Index.vue'),
           meta: { src: require('@/assets/about.jpg') },
         },
         {
           path: 'contact-us',
-          name: 'Contact',
+          name: 'Contato',
           component: () => import('@/views/contact-us/Index.vue'),
           meta: { src: require('@/assets/contact.jpg') },
         },
