@@ -13,12 +13,12 @@
           max-width="700"
           width="100%"
         >
-          <base-heading title="PROMOTE YOUR BUSINESS WITH DAEDAL" />
+          <base-heading title="OBTENHA ÓTIMOS RESULTADOS COM NOSSA CONSULTORIA" />
 
           <base-body>
-            Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality.
-            incubator seed round massmarket.
-            buyer agile development growth hacking business-to-consumer ecosystem
+            As hipóteses de infográfico influenciam a experiência do usuário Modelo longo e verdadeiro paradigma gen-z mudança cliente parceiro produtos da rede resolvem a análise de influenciadores de gerenciamento alavancam a viralidade.
+            Mercado massivo de sementes para incubadoras.
+            Crescimento ágil do comprador crescimento hacking ecossistema business-to-consumer.
           </base-body>
 
           <div
@@ -26,7 +26,7 @@
             class="d-flex flex-wrap"
           >
             <base-btn>
-              Discover More
+              Descubra Mais
             </base-btn>
 
             <span class="font-weight-bold ml-6 mr-4 my-4">or</span>
@@ -37,7 +37,7 @@
               height="auto"
               text
             >
-              Get Started Now
+              Inicie Agora
             </base-btn>
           </div>
         </v-responsive>
