@@ -8,7 +8,7 @@
   export default {
     name: 'Pro',
 
-    metaInfo: { title: 'Pro Features' },
+    metaInfo: { title: 'Funcionalidades Especiais' },
 
     extends: View,
 
