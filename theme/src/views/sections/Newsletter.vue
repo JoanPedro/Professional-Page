@@ -12,7 +12,7 @@
       >
         <base-title
           space="0"
-          title="GET OUR NEWSLETTER"
+          title="FIQUE POR DENTRO"
         />
 
         <v-responsive
@@ -22,7 +22,7 @@
         >
           <base-text-field
             hide-details
-            label="Your Email Address"
+            label="Seu Endereço de Email"
           >
             <template v-slot:append-outer>
               <v-btn
@@ -31,7 +31,7 @@
                 outlined
                 style="margin-top: -7px;"
               >
-                Subscribe
+                Se inscrever
               </v-btn>
             </template>
           </base-text-field>
