@@ -3,7 +3,7 @@
     <base-section-heading
       color="grey lighten-2"
       icon="mdi-vuetify"
-      title="About our Product"
+      title="Sobre nossos produtos"
     />
 
     <v-container>
@@ -28,21 +28,21 @@
     data: () => ({
       cards: [
         {
-          title: 'Grow your Revenue',
-          subtitle: 'Best Productivity',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
+          title: 'Aumente sua receita',
+          subtitle: 'Melhor Produtividade',
+          text: 'Expor a culpa de abandonar a sua responsabilidade, suavidade, que é laborut doloroso. Está sempre em curso das coisas é fácil estexpedita nenhuma diferença.',
           callout: '01',
         },
         {
-          title: 'Affordable Prices',
-          subtitle: 'Special Offers',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
+          title: 'Preços acessíveis',
+          subtitle: 'Ofertas Especiais',
+          text: 'Expor a culpa de abandonar a sua responsabilidade, suavidade, que é laborut doloroso. Está sempre em curso das coisas é fácil estexpedita nenhuma diferença.',
           callout: '02',
         },
         {
-          title: 'Target Setting',
-          subtitle: 'Income Flow',
-          text: 'Similique sunt in culpa qui officia deserunt mollitia animi, id est laborut dolorum fuga.harum quidem rerum facilis estexpedita distinctio.',
+          title: 'Definição de Metas',
+          subtitle: 'Fluxo de Renda',
+          text: 'Expor a culpa de abandonar a sua responsabilidade, suavidade, que é laborut doloroso. Está sempre em curso das coisas é fácil estexpedita nenhuma diferença.',
           callout: '03',
         },
       ],
