@@ -73,19 +73,16 @@
           cols="12"
           md="5"
         >
-          <!-- 
           <v-card
             elevation="16"
             class="mb-12"
           >
-          -->
             <base-img
               max-width="100%"
               :src="mySVG"
             />
-          <!--   
           </v-card>
-          -->
+
           <div class="text-center">
             <base-btn
               :tile="false"
@@ -120,7 +117,7 @@
         ['3 meses de atualização com desconto', false, true],
         ['Preço', 'R$80', 'R$350'],
       ],
-      mySVG: require('../../assets/health-1.svg')
+      mySVG: require('../../assets/health-1.svg'),
     }),
   }
 </script>

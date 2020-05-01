@@ -12,7 +12,7 @@
       <base-title
         size="body-1"
         space="4"
-        title="MULTI-PURPOSE THEME"
+        title="PROPÓSITO SAÚDE"
         weight="regular"
       />
 

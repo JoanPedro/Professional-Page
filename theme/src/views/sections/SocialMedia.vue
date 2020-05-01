@@ -11,7 +11,7 @@
 
       <base-section-heading
         color="transparent"
-        title="Social Media"
+        title="Rede Social"
       >
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi aspernatur recusandae aut repudiandae illo error obcaecati dolores voluptate, tempore.
       </base-section-heading>
