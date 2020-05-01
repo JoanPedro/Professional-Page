@@ -74,7 +74,7 @@
           md="5"
         >
           <v-card
-            elevation="16"
+            elevation="0"
             class="mb-12"
           >
             <base-img
