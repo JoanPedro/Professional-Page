@@ -1,4 +1,5 @@
 <template>
+<!--
   <base-section
     id="affiliates"
     class="grey lighten-4"
@@ -35,6 +36,7 @@
       </v-slide-group>
     </v-container>
   </base-section>
+--> <div />
 </template>
 
 <script>
